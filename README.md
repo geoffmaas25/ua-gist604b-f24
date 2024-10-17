@@ -1,5 +1,5 @@
 # ua-gist604b-f24
-GIST 604B - Lesson 1 - GitHub
+GIST 604B - Lesson 0-0 - GitHub
 
 URL of my repository: https://github.com/geoffmaas25/ua-gist604b-f24
 
